@@ -1,12 +1,12 @@
 # la tele
 
-## Sitio: https://alplox.github.io/la-tele/
+## Sitio: https://akcamvlt.github.io/Arti18.io/
 
-[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_v0-10.jpg)](https://alplox.github.io/la-tele/)
-[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_movil_v0-10.jpg)](https://alplox.github.io/la-tele/)
+[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_v0-10.jpg)](https://akcamvlt.github.io/Arti18.io/)
+[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/Previews/shots_la_tele_movil_v0-10.jpg)](https://akcamvlt.github.io/Arti18.io/)
 
 ## Listado canales disponibles junto a su fuente
-- Canales principales: https://github.com/Alplox/json-teles?tab=readme-ov-file#canales-disponibles-junto-a-su-origen *solo pertenecientes a Chile
+- Canales principales: https://akcamvlt.github.io/Kanallarjs.io?tab=readme-ov-file#canales-disponibles-junto-a-su-origen *solo pertenecientes a Chile
 
 - Canales secundarios M3U8 provienen de: https://github.com/iptv-org/iptv/blob/master/streams/cl.m3u
 
@@ -36,6 +36,6 @@
 ```
 
 ## Licencia
-⚖️ [MIT License](https://github.com/Alplox/la-tele/blob/main/LICENSE)
+⚖️ [MIT License](https://github.com/AkcaMvlt/Arti18.io/blob/main/LICENSE)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/la-tele)](https://badges.strrl.dev)
