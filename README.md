@@ -15,7 +15,7 @@
 -Favicon creado con:        https://favicon.io/
 -Metatags generados con:    https://metatags.io/
 -Sitio basado en:           https://github.com/Donchelox/tv-viewer
-                            https://github.com/Alplox/teles
+                            https://github.com/AkcaMvlt/Arti18.io
 -Imágenes editadas en:      https://shots.so/
 -Fuente:                    https://fonts.google.com/specimen/Poppins
     Licencia: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
